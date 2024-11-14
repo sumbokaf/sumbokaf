@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [odegbaro kafayat olasumbo]!
+# 👋 Hello,  [odegbaro kafayat olasumbo]!
 
 I'm a passionate **Data Analyst** with a strong foundation in transforming data into valuable insights that drive decision-making and provide actionable solutions. I leverage my skills in **Microsoft Excel, SQL, Power BI, Python,** and **Tableau** to analyze complex datasets, create visualizations, and deliver meaningful results.
 
