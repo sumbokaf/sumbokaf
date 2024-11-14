@@ -16,11 +16,6 @@ I specialize in:
 - **Problem Solving**: Applying analytical skills to solve complex problems and develop data-informed solutions.
 - **Storytelling with Data**: Presenting data insights in a way that communicates the "why" behind the numbers, enabling stakeholders to make informed decisions.
 
-## 🚀 Projects
-Here are a few examples of my recent work:
-1. **Sales Dashboard in Power BI**: An interactive dashboard to monitor and analyze sales data, providing insights into key performance indicators.
-2. **Customer Segmentation Analysis in Python**: Used clustering techniques to segment customers based on purchase behavior, which helped inform targeted marketing strategies.
-3. **Financial Reporting Automation in Excel**: Built an Excel-based solution to automate financial reporting, reducing manual work and improving accuracy.
 
 ## 📫 Connect with Me
 I'm always open to connecting with fellow data enthusiasts and exploring new opportunities to apply my skills in data analytics! Feel free to reach out or explore my repositories to see more of my work.
